@@ -1,9 +1,10 @@
 # Capstone Project 1: Global Superstore Sales Record Analysis for the Year 2011-2014
 
 ![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Super%20Store.jpg)
----
+
 
 ## Introduction
+
 A Power BI data analysis project to show the business performance over three years, placing more emphasis on the year 2014.
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog and aiming to be a one-stop shop for its customers. Global The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
 The analysis aims to analyze and draw out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
@@ -11,9 +12,11 @@ A Power BI data analysis project to show the business performance over three yea
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog and aiming to be a one-stop shop for its customers. Global The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
 
 ## Data Source
-The dataset was given by Digitaley Drive, to test my knowledge of Data Analysis, after completing data Bootcamp with them. 
+
+The dataset was given by Digitaley Drive, to test my knowledge of Data Analysis, after completing data Bootcamp with them.
 
 ## Problem Statement
+---
 The analysis is to answer the following business questions:
 
 Question 1
@@ -63,6 +66,7 @@ Power BI. Power BI is a powerful data analysis tool, used in performing differen
 ●	Data Visualization
 
 ## Modelling
+
 The model is a three-table schema. There is one fact table that contains almost all the necessary information and 2-dimension tables. The dimension tables are all joined to the fact tables with many-to-many relationships.
 
 ![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Model.png)
@@ -123,7 +127,74 @@ The above shows profit and loss made in Africa in 2014, comparing Nigeria with o
 The total profit is so low compared to other African countries. Also, the findings show that other African countries in the survey made positive profits.
 Considering the shipping cost, the reason for Nigeria’s poor performance might be high shipping costs. Also, a high discount of over 50% was given to customers for products purchased compared to other African countries.
 
-## Visuals 4 and 5
+### Visuals 4 and 5
 
-![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%206.png) | ![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%204.png)
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%206.png) 
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%204.png)
+
+Considering the profit made for each product subcategory in Southeast Asia, the following product subcategory are the least profitable for the following Southeast Asia Countries with their profits:
+
+•	Cambodia – Storage ($1.26)
+
+•	Indonesia – Table (-$10,680.28)
+
+•	Malaysia – Label ($74.88)
+
+•	Myanmar (Burma) – Tables (-$1,602.79)
+
+•	Philippines - Tables (-$3,150.67)
+
+•	Singapore – Fasteners ($57.39)
+
+•	Thailand – Tables (-3,187.90)
+
+•	Vietnam – Accessories (-$3,144.29)
+
+Therefore, judging from the findings above, the least profitable product subcategory in Southeast Asia is Tables.
+
+Global Superstore should stop supplying Tables to the following Southeast Asia due to non-profitability:
+
+•	Indonesia
+
+•	Myanmar (Burma)
+
+•	Philippines
+
+•	Thailand
+
+### Visual 6
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%205.png)
+
+In terms of average profit, the city with the least profit in the United States is **BETHLEHEM** with **-$200.62**. This might be to the very high discount of 70% given on the most ordered product subcategory. Also investigating the cost of shipping, it was observed that the shipping cost was high and a binder was also returned.
+
+From the average profit in Australia considered, the highest product subcategory that has the highest average profit in Australia is:
+**_Appliances_** with an average profit of **_$139.01_**
+
+Most valuable customers are the customers who make the company make the most profit. They are customers that buy more. And for Global Superstores, the most valuable customers are:
+
+- Tamara Chand
+- Raymond Buch
+- Sanjit Chand
+
+## Conclusion and Recommendation
+
+### Recommendations
+
+- Global Superstore should look for a way to reduce the cost of shipping products, this is to reduce cost, and maximize profits. They can find an alternative shipping company with lower rate, or negotiate reduction with the existing one.
+- They should stop supply of Tables to Some Southeast Asia Countries, and other Countires that loss has been recorded.
+- Global Superstore should reduce the % discount on products ordered by Nigerians to improve on the profits that will made in the sudsquent years.
+- Customers should be encouraged, maybe by rewarding the most valuable customers.
+- Lastly, research should be conducted in countries with high profits, to know the factors responsible for such, and probabily implement the key factors found resposible for the high profits in countries with lesser profit.
+
+### Conclusion
+
+Finally, the analysis of the Global Superstore sales performance spanning from 2011 to 2014 offers valuable insights into the dynamics of the retail industry during this period. Through meticulous examination of sales trends, customer behavior, and product performance, we have uncovered patterns and opportunities that can inform strategic decision-making. From identifying profitable market segments to optimizing inventory management, the findings from this project serve as a foundation for driving business growth and enhancing operational efficiency. Moving forward, leveraging these insights will be crucial in navigating the evolving landscape of the Global Superstore market and staying ahead of the competition.
+
+
+
+
+
+
 
