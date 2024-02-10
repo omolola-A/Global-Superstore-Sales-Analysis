@@ -125,5 +125,5 @@ Considering the shipping cost, the reason for Nigeria’s poor performance might
 
 ## Visuals 4 and 5
 
-![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%206.png)
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%206.png) | ![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%204.png)
 
