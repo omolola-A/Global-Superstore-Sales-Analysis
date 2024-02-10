@@ -63,5 +63,5 @@ Power BI. Power BI is a powerful data analysis tool, used in performing differen
 ●	Data Visualization
 
 ## Modelling
-Relationships were derived
+The model is a start scheme. There is one fact table and 2-dimension tables. The dimension tables are all joined to the fact tables with many-to-many relationships. were derived
 
