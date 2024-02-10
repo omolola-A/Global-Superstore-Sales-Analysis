@@ -63,5 +63,67 @@ Power BI. Power BI is a powerful data analysis tool, used in performing differen
 ●	Data Visualization
 
 ## Modelling
-The model is a start scheme. There is one fact table and 2-dimension tables. The dimension tables are all joined to the fact tables with many-to-many relationships. were derived
+The model is a three-table schema. There is one fact table that contains almost all the necessary information and 2-dimension tables. The dimension tables are all joined to the fact tables with many-to-many relationships.
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Model.png)
+
+## Visualisation and Analysis
+
+The report contains 6 dashboards that answer the problem statements stated above.
+
+### Visual 1
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%201.png)
+
+The above shows the general overview of the report, showing the profits, sales, average shipping cost by subcategory, customers by revenue, and many more.
+
+### Visual 2
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%202.png)
+
+This focuses more on the year 2014. Giving answers to problem statements 1 and 2. As shown above, the three countries that generated the highest total profit for Global Superstore in 2014 are; the United States, India, and China with $93,501.51, $48,807.68, and $46,793.99 respectively.
+
+The top three Products in the United States with the highest total profit with the total profit for each product are;
+
+•	Canon image Class2200 Advance Copier = 15,679.96
+
+•	Hewlett Packard LaserJet 3310 Copier = 3,623.94
+
+•	GBC DocuBind TL300 Electric Binding System = 1,910.59
+
+The top three Products in India with the highest total profit with the total profit for each product are:
+
+•	Sauder Classic Bookcase, Traditional = 2,419.65	
+
+•	Cisco Smart Phone, with Caller ID = 1,609.38	
+
+•	Hamilton Beach Refrigerator, Red = 1,440.24
+
+The three Products in China with the highest total profit with the total profit for each product are:
+
+•	Sauder Classic Bookcase, Meatal = 1,463.07	
+
+•	Bush Classic Bookcase, Mobile = 1,220.52	
+
+•	HP Copy Machine, Color = 1,196.13		
+
+Lastly, this visual shows the top 3 subcategories with the highest average shipping cost in the United States, which are:
+•	Copiers	
+
+•	Machines	
+
+•	Tables
+
+### Visual 3
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%203.png)
+
+The above shows profit and loss made in Africa in 2014, comparing Nigeria with other African countries. A negative profit of 23,285.19 was made in Nigeria. This shows that Global Superstore made a loss despite recording a high quantity of orders sold when compared to other African countries.
+
+The total profit is so low compared to other African countries. Also, the findings show that other African countries in the survey made positive profits.
+Considering the shipping cost, the reason for Nigeria’s poor performance might be high shipping costs. Also, a high discount of over 50% was given to customers for products purchased compared to other African countries.
+
+## Visuals 4 and 5
+
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Superstore%20Sales%206.png)
 
