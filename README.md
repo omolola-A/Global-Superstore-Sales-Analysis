@@ -1,6 +1,6 @@
 # Capstone Project 1: Global Superstore Sales Record Analysis for the Year 2011-2014
 
-![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/Global%20Super%20Store.jpg)
+![](https://github.com/omolola-A/Global-Superstore-Sales-Analysis/blob/main/superstore.avif)
 
 
 ## Introduction
@@ -16,42 +16,26 @@ Global Superstore is a global online retailer based in New York, boasting a broa
 The dataset was given by Digitaley Drive, to test my knowledge of Data Analysis, after completing data Bootcamp with them.
 
 ## Problem Statement
----
+
 The analysis is to answer the following business questions:
 
-Question 1
+1. - What are the three countries that generated the highest total profit for Global Superstore in 2014?
+   - For each of these countries, find the products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
 
-a.	What are the three countries that generated the highest total profit for Global Superstore in 2014?
+2. - Identify the 3 subcategories with the highest average shipping cost in the United States.
 
-b.	For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
+3. - Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?
+   - What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes.
 
-Question 2
+4. - Identify the product subcategory that is the least profitable in Southeast Asia. Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, 
+     Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam. 
+   - Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
 
-a.	Identify the 3 subcategories with the highest average shipping cost in the United States.
+5. - Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. b) Why is this city’s average 
+     Is profit so low?
+6. - Which product subcategory has the highest average profit in Australia?
 
-Question 3
-
-a.	Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?
-
-b.	What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes.
-
-Question 4
-
-a.	Identify the product subcategory that is the least profitable in Southeast Asia. Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam. 
-
-b.	Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
-
-Question 5
-
-a.	Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. b) Why is this city’s average profit so low?
-
-Question 6
-
-a.	Which product subcategory has the highest average profit in Australia?
-
-Question 7
-
-a.	Who are the most valuable customers and what do they purchase?
+7. - Who are the most valuable customers and what do they purchase?
 
 ## Method of Analysis
 
