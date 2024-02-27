@@ -166,11 +166,11 @@ Most valuable customers are the customers who make the company make the most pro
 
 ### Recommendations
 
-- Global Superstore should look for a way to reduce the cost of shipping products, this is to reduce cost, and maximize profits. They can find an alternative shipping company with lower rate, or negotiate reduction with the existing one.
-- They should stop supply of Tables to Some Southeast Asia Countries, and other Countires that loss has been recorded.
-- Global Superstore should reduce the % discount on products ordered by Nigerians to improve on the profits that will made in the sudsquent years.
+- Global Superstore should look for a way to reduce the cost of shipping products, this is to reduce cost, and maximize profits. They can find an alternative shipping company with a lower rate, or negotiate a reduction with the existing one.
+- They should stop the supply of Tables to Some Southeast Asia Countries, and other Countries where loss has been recorded.
+- Global Superstore should reduce the % discount on products ordered by Nigerians to improve on the profits that will made in the subsequent years.
 - Customers should be encouraged, maybe by rewarding the most valuable customers.
-- Lastly, research should be conducted in countries with high profits, to know the factors responsible for such, and probabily implement the key factors found resposible for the high profits in countries with lesser profit.
+- Lastly, research should be conducted in countries with high profits, to know the factors responsible for such, and probably implement the key factors found responsible for the high profits in countries with lesser profits.
 
 ### Conclusion
 
@@ -178,7 +178,8 @@ Finally, the analysis of the Global Superstore sales performance spanning from 2
 
 
 
+*Thanks.*  _Below is the link to my GitHub Account_
 
-
+https://github.com/omolola-A
 
 
